@@ -18,3 +18,16 @@ User Input: Accepts a movie title from the user and provides similar movie recom
 
 Python 3.x
 Libraries: numpy, pandas, scikit-learn, difflib
+
+
+#Notes
+
+Ensure your movies.csv file is correctly formatted with the required columns.
+You can modify the list of selected features based on your preferences for better recommendations.
+
+#License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+#Acknowledgements
+
+Inspired by various movie recommendation systems and tutorials.
